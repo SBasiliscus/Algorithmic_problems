@@ -1,0 +1,5 @@
+Kifizetési mátrix (sorok: rúgó zóna, oszlopok: kapus zóna):
+             bal          kozep       jobb
+bal            10 / 25       0 / 1       36 / 41
+kozep          1 / 2       0 / 6       4 / 4
+jobb           39 / 40       0 / 0       8 / 20

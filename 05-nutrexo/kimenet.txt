@@ -1,0 +1,18 @@
+Optimális napi költség: 908.0454036055812 
+ Szükséges alapanyagok: 
+Zab 0.4718603101959013 g 
+Fehér kenyér 3.898051818344122 g 
+Csirkemáj 0.047966847887267745 g 
+Tehéntej (1,5%-os) 0.9811295781674432 g 
+Vaj 0.44487518397012754 g 
+Fejes káposzta 1.253438226315705 g 
+Vöröshagyma 4.133885133355857 g 
+Összesített tápanyagtartalom: 
+Kalória 1800.0000000000002 kcal 
+Fehérje 50.00000000000001 g 
+Zsír 55.119504977077966 g 
+Szénhidtár 260.00000000000006 g 
+Rost 25.0 g 
+C Vitamin 80.0 mg 
+A Vitamin 800.0000000000001 µg 
+Kalcium 800.0 mg 
